@@ -72,7 +72,7 @@ Handles registration, login, and session management for guests and hosts.
 - Support at least 1000 concurrent login requests without failure
 
 ## 2. Property Management
-###cDescription
+### Description
 - Allows hosts to create, update, delete, and retrieve property listings.
 
 ### API Endpoints
