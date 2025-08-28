@@ -6,7 +6,7 @@ This diagram represents the key **backend features and functionalities** of the 
 It was created using **Mermaid Chart (mermaidchart.com)** and exported as a PNG file.
 
 The diagram captures the major modules of the system and their sub-features, based on the project requirements.
-![Airbnb Clone Backend Features](features-and-functionalities/features.png)
+![Airbnb Clone Backend Features](features-and-functionalities/backend.png)
 ---
 
 ## 🔑 Core Features Represented
