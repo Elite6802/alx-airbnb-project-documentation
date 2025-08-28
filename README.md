@@ -46,6 +46,4 @@ The diagram captures the major modules of the system and their sub-features, bas
 
 ---
 
-## 📂 File Location
-The exported diagram has been saved in this folder as:
 
